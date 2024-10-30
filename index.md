@@ -26,9 +26,9 @@ See my CV [here](assets/files/curriculum_vitae.pdf), and please don't hesitate t
 
 ## Research Interests
 
-- Programming Languages
-- Concurrent and Distributed Computing
+- Programming Languages and Formal Methods
 - Systems Verification
+- Concurrency
 
 ## News
 
