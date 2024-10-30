@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm a third-year Ph.D. student at the University of Illinois Urbana-Champaign. I am broadly interested in programming languages and formal methods, with more specific interests in verifying systems software. I currently work with [Tianyin Xu](https://tianyin.github.io/) on compositional verification of liveness properties for Kubernetes controllers. We are implementing support for this on top of [Anvil](https://github.com/anvil-verifier/anvil), a Kubernetes verification framework for the Rust verifier Verus. I previously worked with [Madhusudan Parthasarathy](http://madhu.cs.illinois.edu/) to develop a predictable automatic verification paradigm based on intrinsic, or local, definitions rather than recursive definitions.
+Hi! I'm a third-year Ph.D. student at the University of Illinois Urbana-Champaign. I am broadly interested in programming languages and formal methods, with more specific interests in verifying systems software. I currently work with [Tianyin Xu](https://tianyin.github.io/) on compositional verification of liveness properties for Kubernetes controllers. We are implementing support for this on top of [Anvil](https://github.com/anvil-verifier/anvil), a Kubernetes verification framework for the Rust verifier Verus.
 
-Prior to joining Illinois, I did research in high-performance computing at the University of Alabama, where I worked with [Dingwen Tao](https://www.dingwentao.com/). My research focused on using GPU performance engineering to improve scientific computing applications.
+I previously worked with [Madhusudan Parthasarathy](http://madhu.cs.illinois.edu/) to develop a predictable automatic verification paradigm based on intrinsic, or local, definitions rather than recursive definitions. Also, prior to joining Illinois, I did research in high-performance computing with [Dingwen Tao](https://www.dingwentao.com/). My research focused on using GPU performance engineering to improve scientific computing applications.
 
 See my CV [here](assets/files/curriculum_vitae.pdf), and please don't hesitate to reach out to me.
 
