@@ -1,22 +1,41 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Checking δ-Satisfiability of Reals with Integrals
+    authors: <strong>Cody Rivera</strong>, Bishnu Bhusal, Rohit Chadha, A. Prasad Sistla, Mahesh Viswanathan
+    conference: Under Submission, 2024.
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: 'Anvil: Building Kubernetes Controllers That Do Not Break'
+    authors: Xudong Sun, Jiawei Tyler Gu, <strong>Cody Rivera</strong>, Tej Chajed, Jon Howell, Andrea Lattuada, Oded Padon, Lalith Suresh, Adriana Szekeres, Tianyin Xu
+    conference: USENIX ;login:, 2024.
+
+  - title: Predictable Verification using Intrinsic Definitions
+    authors: Adithya Murali, <strong>Cody Rivera</strong>, P. Madhusudan
+    conference_short: PLDI
+    conference: ACM SIGPLAN Conference on Programming Language Design and Implementation <strong>(PLDI)</strong>, 2024.
+    notes: ACM Europe Best Paper Award
+
+  - title: Optimizing Huffman Decoding for Error-Bounded Lossy Compression on GPUs
+    authors: <strong>Cody Rivera</strong>, Sheng Di, Jiannan Tian, Xiaodong Yu, Dingwen Tao, Franck Cappello
+    conference_short: IPDPS
+    conference: IEEE International Parallel and Distributed Processing Symposium <strong>(IPDPS)</strong>, 2022.
+
+  - title: Optimizing Error-Bounded Lossy Compression for Scientific Data on GPUs
+    authors: Jiannan Tian, Sheng Di, Xiaodong Yu, <strong>Cody Rivera</strong>, Kai Zhao, Sian Jin, Yunhe Feng, Xin Liang, Dingwen Tao, Franck Cappello
+    conference_short: CLUSTER
+    conference: IEEE International Conference on Cluster Computing <strong>(CLUSTER)</strong>, 2021.
+
+  - title: 'Revisiting Huffman Coding: Toward Extreme Performance on Modern GPU Architectures'
+    authors: Jiannan Tian, <strong>Cody Rivera</strong>, Sheng Di, Jieyang Chen, Xin Liang, Dingwen Tao, Franck Cappello
+    conference_short: IPDPS
+    conference: IEEE International Parallel and Distributed Processing Symposium <strong>(IPDPS)</strong>, 2021.
+
+  - title: 'TSM2X: High-Performance Tall-and-Skinny Matrix–Matrix Multiplication on GPUs'
+    authors: <strong>Cody Rivera</strong>*, Jieyang Chen*, Nan Xiong, Jing Zhang, Shuaiwen Leon Song, Dingwen Tao <i>(* equal contribution)</i>
+    conference_short: JPDC
+    conference: Journal of Parallel and Distributed Computing <strong>(JPDC)</strong>, Volume 151, 2021.
+
+  - title: 'cuSZ: An Efficient GPU-Based Error-Bounded Lossy Compression Framework for Scientific Data'
+    authors: Jiannan Tian, Sheng Di, Kai Zhao, <strong>Cody Rivera</strong>, Megan Hickman Fulp, Robert Underwood, Sian Jin, Xin Liang, Jon Calhoun, Dingwen Tao, Franck Cappello
+    conference_short: PACT
+    conference: ACM International Conference on Parallel Architectures and Compilation Techniques <strong>(PACT)</strong>, 2020.
+  
