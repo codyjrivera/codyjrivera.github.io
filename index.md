@@ -34,7 +34,7 @@ See my CV [here](assets/files/curriculum_vitae.pdf), and please don't hesitate t
 
 ## News
 
-- **4/2025:** I have decided to do my Ph.D. at [University of Wisconsin-Madison](https://www.cs.wisc.edu/).
+- **4/2025:** I have decided to do my Ph.D. at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/).
 - **2/2025:** Our paper on extending δ-decision procedures to handle integration will appear in OOPSLA 2025!
 - **4/2024:** Our paper on intrinsic definitions will appear in PLDI 2024! My Erdős number is now at most [3](#miscellaneous)!
 - **10/2022:** I was selected to recieve support to attend the [Programming Languages Mentoring Workshop at POPL 2023](https://popl23.sigplan.org/home/PLMW-POPL-2023#About). Looking forward to attending POPL next January!
