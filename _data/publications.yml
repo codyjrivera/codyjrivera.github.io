@@ -3,17 +3,24 @@ main:
   - title: Checking δ-Satisfiability of Reals with Integrals
     authors: <strong>Cody Rivera</strong>, Bishnu Bhusal, Rohit Chadha, A. Prasad Sistla, Mahesh Viswanathan
     conference_short: OOPSLA
-    conference: To appear in Object-Oriented Programming, Systems, Languages & Applications <strong>(OOPSLA)</strong>, 2025.
+    conference: Object-Oriented Programming, Systems, Languages & Applications <strong>(OOPSLA)</strong>, 2025.
+    pdf: assets/files/papers/int-dreal/int-dreal.pdf
+    code: https://github.com/codyjrivera/ids-artifact
+    doi: https://doi.org/10.1145/3720446
 
   - title: 'Anvil: Building Kubernetes Controllers That Do Not Break'
     authors: Xudong Sun, Jiawei Tyler Gu, <strong>Cody Rivera</strong>, Tej Chajed, Jon Howell, Andrea Lattuada, Oded Padon, Lalith Suresh, Adriana Szekeres, Tianyin Xu
     conference: USENIX ;login:, 2024.
+    page: https://www.usenix.org/publications/loginonline/anvil-building-formally-verified-kubernetes-controllers
 
   - title: Predictable Verification using Intrinsic Definitions
     authors: Adithya Murali, <strong>Cody Rivera</strong>, P. Madhusudan
     conference_short: PLDI
     conference: ACM SIGPLAN Conference on Programming Language Design and Implementation <strong>(PLDI)</strong>, 2024.
     notes: ACM Europe Best Paper Award
+    pdf: assets/files/papers/ids/ids.pdf
+    code: https://github.com/codyjrivera/ids-artifact
+    doi: https://doi.org/10.1145/3656450
 
   - title: Optimizing Huffman Decoding for Error-Bounded Lossy Compression on GPUs
     authors: <strong>Cody Rivera</strong>, Sheng Di, Jiannan Tian, Xiaodong Yu, Dingwen Tao, Franck Cappello

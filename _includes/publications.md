@@ -18,6 +18,8 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       {% if link.pdf %} 
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      {% else if link.page %}
+      <div class="title"><a href="{{ link.page }}">{{ link.title }}</a></div>
       {% else %}
       <div class="title"><a>{{ link.title }}</a></div>
       {% endif %}
@@ -34,11 +36,14 @@
       {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
+      {% if link.doi %} 
+      <a href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+      {% endif %}
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
       {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      <strong> <i style="color:#e74d3c">&nbsp;&nbsp;{{ link.notes }}</i></strong>
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
