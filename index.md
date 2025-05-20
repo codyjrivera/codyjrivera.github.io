@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm an incoming Ph.D. student at the University of Wisconsin-Madison. I am broadly interested in programming languages and formal methods, with more specific interests in concurrency and verifying systems software.
+Hi! I'm an incoming Ph.D. student at the University of Wisconsin-Madison. I am broadly interested in programming languages and formal methods, with more specific interests in concurrency and verifying systems software. I'm currently working with [Tianyin Xu](https://tianyin.github.io/) as a visiting student at the University of Illinois Urbana-Champaign on compositional verification of liveness properties for Kubernetes controllers. We are implementing support for this on top of [Anvil](https://github.com/anvil-verifier/anvil), a Kubernetes verification framework for the Rust verifier Verus.
 
-I am currently at the University of Illinois Urbana-Champaign. I work as a visiting graduate student with [Tianyin Xu](https://tianyin.github.io/) on compositional verification of liveness properties for Kubernetes controllers. We are implementing support for this on top of [Anvil](https://github.com/anvil-verifier/anvil), a Kubernetes verification framework for the Rust verifier Verus. I previously earned an M.S. degree supervised by [Madhusudan Parthasarathy](http://madhu.cs.illinois.edu/). Together, we developed a predictable automatic verification paradigm based on intrinsic, or local, definitions rather than recursive definitions.
+I previously earned an M.S. degree at the University of Illinois Urbana-Champaign, supervised by [Madhusudan Parthasarathy](http://madhu.cs.illinois.edu/). Together, we developed a predictable automatic verification paradigm based on intrinsic, or local, definitions rather than recursive definitions.
 
 Prior to that, I was an undergraduate student at the University of Alabama, where I did research in high-performance computing with [Dingwen Tao](https://people.ucas.ac.cn/~tdw?language=en). My research focused on using GPU performance engineering to improve scientific computing applications.
 
