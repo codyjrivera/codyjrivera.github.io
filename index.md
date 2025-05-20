@@ -44,4 +44,6 @@ See my CV [here](assets/files/curriculum_vitae.pdf), and please don't hesitate t
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/mentoring.md %}
+
 {% include_relative _includes/misc.md %}
