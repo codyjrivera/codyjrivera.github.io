@@ -5,7 +5,7 @@ main:
     conference_short: OOPSLA
     conference: Object-Oriented Programming, Systems, Languages & Applications <strong>(OOPSLA)</strong>, 2025.
     pdf: assets/files/papers/int-dreal/int-dreal.pdf
-    code: https://github.com/codyjrivera/ids-artifact
+    code: https://github.com/codyjrivera/int-dreal-artifact
     doi: https://doi.org/10.1145/3720446
 
   - title: 'Anvil: Building Kubernetes Controllers That Do Not Break'
