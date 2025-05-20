@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm an incoming Ph.D. student at the University of Wisconsin-Madison. I am broadly interested in programming languages and formal methods, with more specific interests in concurrency and verifying systems software. I am currently working as a visiting student with [Tianyin Xu](https://tianyin.github.io/) on compositional verification of liveness properties for Kubernetes controllers. We are implementing support for this on top of [Anvil](https://github.com/anvil-verifier/anvil), a Kubernetes verification framework for the Rust verifier Verus.
+Hi! I'm an incoming Ph.D. student at the University of Wisconsin-Madison. I am broadly interested in programming languages and formal methods, with more specific interests in concurrency and verifying systems software.
 
-I previously earned an M.S. degree at the University of Illinois Urbana-Champaign, supervised by [Madhusudan Parthasarathy](http://madhu.cs.illinois.edu/). Together, we developed a predictable automatic verification paradigm based on intrinsic, or local, definitions rather than recursive definitions.
+I earned an M.S. degree at the University of Illinois Urbana-Champaign, supervised by [Madhusudan Parthasarathy](http://madhu.cs.illinois.edu/). Together, we developed a predictable automatic verification paradigm based on intrinsic, or local, definitions rather than recursive definitions. Prior to that, I was an undergraduate student at the University of Alabama, where I did research in high-performance computing with [Dingwen Tao](https://people.ucas.ac.cn/~tdw?language=en). My research focused on using GPU performance engineering to improve scientific computing applications.
 
-Prior to that, I was an undergraduate student at the University of Alabama, where I did research in high-performance computing with [Dingwen Tao](https://people.ucas.ac.cn/~tdw?language=en). My research focused on using GPU performance engineering to improve scientific computing applications.
+Currently, I am working as a visiting student with [Tianyin Xu](https://tianyin.github.io/) on compositional verification of liveness properties for Kubernetes controllers. We are implementing support for this on top of [Anvil](https://github.com/anvil-verifier/anvil), a Kubernetes verification framework for the Rust verifier Verus.
 
 See my CV [here](assets/files/curriculum_vitae.pdf), and please don't hesitate to reach out to me.
 
