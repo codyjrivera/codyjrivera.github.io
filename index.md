@@ -8,7 +8,7 @@ Hi! I'm an incoming Ph.D. student at the University of Wisconsin-Madison. I am b
 
 Currently, I am working as a visiting student with [Tianyin Xu](https://tianyin.github.io/) on compositional verification of liveness properties for Kubernetes controllers. We are implementing support for this on top of [Anvil](https://github.com/anvil-verifier/anvil), a Kubernetes verification framework for the Rust verifier Verus.
 
-Previously, I earned an M.S. degree at the University of Illinois Urbana-Champaign developing a predictable automatic verification paradigm based on intrinsic, or local, definitions rather than recursive definitions supervised by [Madhusudan Parthasarathy](http://madhu.cs.illinois.edu/). Prior to that, I earned a B.S. degree at the University of Alabama, where I did research in high-performance computing supervised by [Dingwen Tao](https://people.ucas.ac.cn/~tdw?language=en).
+Previously, I earned an M.S. degree at the University of Illinois Urbana-Champaign developing a predictable automatic verification paradigm based on intrinsic (or local) definitions rather than recursive definitions supervised by [Madhusudan Parthasarathy](http://madhu.cs.illinois.edu/). Prior to that, I earned a B.S. degree at the University of Alabama, where I did research in high-performance computing supervised by [Dingwen Tao](https://people.ucas.ac.cn/~tdw?language=en).
 
 See my CV [here](assets/files/curriculum_vitae.pdf), and please don't hesitate to reach out to me.
 
