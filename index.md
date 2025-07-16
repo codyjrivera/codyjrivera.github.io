@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm an incoming Ph.D. student at the University of Wisconsin-Madison. I am broadly interested in programming languages and formal methods, with more specific interests in concurrency and verifying systems software.
+Hi! I'm a Ph.D. student at the University of Wisconsin-Madison. I am broadly interested in programming languages and formal methods, with more specific interests in concurrency and verifying systems software.
 
 Currently, I work as a visiting student at the University of Illinois Urbana-Champaign on compositional verification of liveness properties for Kubernetes controllers, supervised by [Tianyin Xu](https://tianyin.github.io/). We are implementing support for this on top of [Anvil](https://github.com/anvil-verifier/anvil), a Kubernetes verification framework for the Rust verifier Verus.
 
