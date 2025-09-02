@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm a Ph.D. student at the University of Wisconsin-Madison. I am broadly interested in programming languages and formal methods, with more specific interests in concurrency and verifying systems software.
+Hi! I'm a Ph.D. student at the University of Wisconsin-Madison. I am broadly interested in programming languages and formal methods, with more specific interests in concurrency, automated reasoning, and verifying systems software.
 
-Currently, I work as a visiting student at the University of Illinois Urbana-Champaign on compositional verification of liveness properties for Kubernetes controllers, supervised by [Tianyin Xu](https://tianyin.github.io/). We are implementing support for this on top of [Anvil](https://github.com/anvil-verifier/anvil), a Kubernetes verification framework for the Rust verifier Verus.
+Most recently, I worked as a visiting student at the University of Illinois Urbana-Champaign on verifying liveness properties of Kubernetes controllers, supervised by [Tianyin Xu](https://tianyin.github.io/). I extended the Kubernetes verification framework [Anvil](https://github.com/anvil-verifier/anvil) with verified implementations of built-in controllers and support for compositional verification. 
 
-Previously, I earned an M.S. degree at the University of Illinois Urbana-Champaign developing a predictable automatic verification paradigm based on intrinsic (or local) definitions rather than recursive definitions, supervised by [Madhusudan Parthasarathy](http://madhu.cs.illinois.edu/). Prior to that, I earned a B.S. degree at the University of Alabama, where I did research in high-performance computing supervised by [Dingwen Tao](https://people.ucas.ac.cn/~tdw?language=en).
+Previously, I earned an M.S. in Computer Science at the University of Illinois Urbana-Champaign developing a predictable automatic verification paradigm based on intrinsic (or local) definitions rather than recursive definitions, supervised by [Madhusudan Parthasarathy](http://madhu.cs.illinois.edu/). Prior to that, I earned a B.S. in Computer Science and Mathematics at the University of Alabama, where I did research in high-performance computing supervised by [Dingwen Tao](https://people.ucas.ac.cn/~tdw?language=en).
 
 See my CV [here](assets/files/curriculum_vitae.pdf), and please don't hesitate to reach out to me.
 
